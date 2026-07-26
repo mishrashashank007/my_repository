@@ -1,0 +1,16 @@
+{
+  "name": "project2",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "app2.js",
+  "scripts": {
+    "start": "node app2.js",
+    "dev": "nodemon app2.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
